@@ -633,13 +633,13 @@ form label {
 .fh5co-bg-section {
   position: relative;
   background: #005a8f;
-  background: -moz-linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
-  background: -webkit-gradient(left bottom, right top, color-stop(0%, #005a8f), color-stop(100%, #ff61b3));
-  background: -webkit-linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
-  background: -o-linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
-  background: -ms-linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
-  background: linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#005a8f', endColorstr='#ff61b3', GradientType=1 );
+  background: -moz-linear-gradient(45deg, #005a8f 0%, #8edbf4 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, #005a8f), color-stop(100%, #8edbf4));
+  background: -webkit-linear-gradient(45deg, #005a8f 0%, #8edbf4 100%);
+  background: -o-linear-gradient(45deg, #005a8f 0%, #8edbf4 100%);
+  background: -ms-linear-gradient(45deg, #005a8f 0%, #8edbf4 100%);
+  background: linear-gradient(45deg, #005a8f 0%, #8edbf4 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#005a8f', endColorstr='#8edbf4', GradientType=1 );
 }
 .fh5co-bg-section .overlay {
   position: absolute;
@@ -1064,14 +1064,14 @@ form label {
 }
 
 #fh5co-started {
-  background: #ff61b3;
-  background: -moz-linear-gradient(-45deg, #ff61b3 0%, #005a8f 100%);
-  background: -webkit-gradient(left top, right bottom, color-stop(0%, #ff61b3), color-stop(100%, #005a8f));
-  background: -webkit-linear-gradient(-45deg, #ff61b3 0%, #005a8f 100%);
-  background: -o-linear-gradient(-45deg, #ff61b3 0%, #005a8f 100%);
-  background: -ms-linear-gradient(-45deg, #ff61b3 0%, #005a8f 100%);
-  background: linear-gradient(135deg, #ff61b3 0%, #005a8f 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff61b3', endColorstr='#005a8f', GradientType=1 );
+  background: #8edbf4;
+  background: -moz-linear-gradient(-45deg, #8edbf4 0%, #005a8f 100%);
+  background: -webkit-gradient(left top, right bottom, color-stop(0%, #8edbf4), color-stop(100%, #005a8f));
+  background: -webkit-linear-gradient(-45deg, #8edbf4 0%, #005a8f 100%);
+  background: -o-linear-gradient(-45deg, #8edbf4 0%, #005a8f 100%);
+  background: -ms-linear-gradient(-45deg, #8edbf4 0%, #005a8f 100%);
+  background: linear-gradient(135deg, #8edbf4 0%, #005a8f 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8edbf4', endColorstr='#005a8f', GradientType=1 );
 }
 #fh5co-started .fh5co-heading h2 {
   color: #fff;
@@ -1588,6 +1588,11 @@ form label {
 
 .js .animate-box {
   opacity: 0;
+}
+
+.logo-main {
+	 width: 230px;
+	 height: 230px;
 }
 
 /*# sourceMappingURL=style.css.map */

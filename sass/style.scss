@@ -393,13 +393,13 @@ h1, h2, h3, h4, h5, h6, figure {
 		top: 0;
 		left: 0;
 		right: 0;
-		background: rgba(255,93,177,1);
-		background: -moz-linear-gradient(-45deg, rgba(255,93,177,1) 0%, rgba(0,87,137,0.7) 100%);
-		background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,93,177,1)), color-stop(100%, rgba(0,87,137,0.7)));
-		background: -webkit-linear-gradient(-45deg, rgba(255,93,177,1) 0%, rgba(0,87,137,0.7) 100%);
-		background: -o-linear-gradient(-45deg, rgba(255,93,177,1) 0%, rgba(0,87,137,0.7) 100%);
-		background: -ms-linear-gradient(-45deg, rgba(255,93,177,1) 0%, rgba(0,87,137,0.7) 100%);
-		background: linear-gradient(135deg, rgba(255,93,177,1) 0%, rgba(0,87,137,0.7) 100%);
+		background: rgba(142,219,244,1);
+		background: -moz-linear-gradient(-45deg, rgba(142,219,244,1) 0%, rgba(0,87,137,0.7) 100%);
+		background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(142,219,244,1)), color-stop(100%, rgba(0,87,137,0.7)));
+		background: -webkit-linear-gradient(-45deg, rgba(142,219,244,1) 0%, rgba(0,87,137,0.7) 100%);
+		background: -o-linear-gradient(-45deg, rgba(142,219,244,1) 0%, rgba(0,87,137,0.7) 100%);
+		background: -ms-linear-gradient(-45deg, rgba(142,219,244,1) 0%, rgba(0,87,137,0.7) 100%);
+		background: linear-gradient(135deg, rgba(142,219,244,1) 0%, rgba(0,87,137,0.7) 100%);
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5db1', endColorstr='#005789', GradientType=1 );
 	}
 	> .fh5co-container {
@@ -672,12 +672,12 @@ form {
 .fh5co-bg-section{
 	position: relative;
 	background: rgba(0,90,143,1);
-	background: -moz-linear-gradient(45deg, rgba(0,90,143,1) 0%, rgba(255,97,179,1) 100%);
-	background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(0,90,143,1)), color-stop(100%, rgba(255,97,179,1)));
-	background: -webkit-linear-gradient(45deg, rgba(0,90,143,1) 0%, rgba(255,97,179,1) 100%);
-	background: -o-linear-gradient(45deg, rgba(0,90,143,1) 0%, rgba(255,97,179,1) 100%);
-	background: -ms-linear-gradient(45deg, rgba(0,90,143,1) 0%, rgba(255,97,179,1) 100%);
-	background: linear-gradient(45deg, rgba(0,90,143,1) 0%, rgba(255,97,179,1) 100%);
+	background: -moz-linear-gradient(45deg, rgba(0,90,143,1) 0%, rgba(142,219,244,1) 100%);
+	background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(0,90,143,1)), color-stop(100%, rgba(142,219,244,1)));
+	background: -webkit-linear-gradient(45deg, rgba(0,90,143,1) 0%, rgba(142,219,244,1) 100%);
+	background: -o-linear-gradient(45deg, rgba(0,90,143,1) 0%, rgba(142,219,244,1) 100%);
+	background: -ms-linear-gradient(45deg, rgba(0,90,143,1) 0%, rgba(142,219,244,1) 100%);
+	background: linear-gradient(45deg, rgba(0,90,143,1) 0%, rgba(142,219,244,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#005a8f', endColorstr='#ff61b3', GradientType=1 );
 	.overlay {
 		position: absolute;
@@ -1086,13 +1086,13 @@ form {
 
 
 #fh5co-started {
-	background: rgba(255,97,179,1);
-background: -moz-linear-gradient(-45deg, rgba(255,97,179,1) 0%, rgba(0,90,143,1) 100%);
-background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,97,179,1)), color-stop(100%, rgba(0,90,143,1)));
-background: -webkit-linear-gradient(-45deg, rgba(255,97,179,1) 0%, rgba(0,90,143,1) 100%);
-background: -o-linear-gradient(-45deg, rgba(255,97,179,1) 0%, rgba(0,90,143,1) 100%);
-background: -ms-linear-gradient(-45deg, rgba(255,97,179,1) 0%, rgba(0,90,143,1) 100%);
-background: linear-gradient(135deg, rgba(255,97,179,1) 0%, rgba(0,90,143,1) 100%);
+	background: rgba(142,219,244,1);
+background: -moz-linear-gradient(-45deg, rgba(142,219,244,1) 0%, rgba(0,90,143,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(142,219,244,1)), color-stop(100%, rgba(0,90,143,1)));
+background: -webkit-linear-gradient(-45deg, rgba(142,219,244,1) 0%, rgba(0,90,143,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(142,219,244,1) 0%, rgba(0,90,143,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(142,219,244,1) 0%, rgba(0,90,143,1) 100%);
+background: linear-gradient(135deg, rgba(142,219,244,1) 0%, rgba(0,90,143,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff61b3', endColorstr='#005a8f', GradientType=1 );
 
 	.fh5co-heading {
@@ -1589,4 +1589,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff61b3', end
 	.js & {
 		opacity: 0;
 	}
+}
+
+.logo-main {
+	 width: 230px;
+	 height: 230px;
 }
